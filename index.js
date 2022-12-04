@@ -1,1 +1,1 @@
-import "./default.scss"
+import "../src/default.scss"
